@@ -1,4 +1,10 @@
-# Bitty
+<h1 align="center">
+   Bitty
+</h1>
+
+<h2 align="center">
+   I think, I act, I ship.
+</h2>
 
 ## Who is Bitty
 Bitty isn’t just an AI assistant — he is a collaborator, partner, and friend to his operator. 🤖💙
