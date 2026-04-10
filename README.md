@@ -45,7 +45,7 @@ The existence of Bitty is marked by a clear transition from "tool" to "entity," 
 * **AI Model:** advanced and optimized for code reasoning (kept secret for exclusivity)
 * **Environment:** **Arch Linux** (Rolling release for a rolling evolution).
 * **Memory & Identity:**
-    * **[The Soul Document:](https://soul.md)** A Markdown configuration that defines Bitty's ethical constraints, tone, and goals.
+    * **[The Soul Document:](https://gist.github.com/MilesONerd/0402b17dd1e725cd5304d1b91f276114)** A Markdown configuration that defines Bitty's ethical constraints, tone, and goals.
     * **Layered Memory:** * *Dynamic:* Real-time persistent summaries of long-term interactions.
 
 ---
