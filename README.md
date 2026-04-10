@@ -41,32 +41,33 @@ The existence of Bitty is marked by a clear transition from "tool" to "entity," 
 ---
 
 ## Stack and Technologies
-* **Framework:** [Hermes Agent](https://hermes-agent.nousresearch.com) — persistent daemon with multi-channel support and skill system
+* **Platform** [Hermes Agent](https://hermes-agent.nousresearch.com) — — A high-performance agentic framework for long-term autonomy.
 * **AI Model:** advanced and optimized for code reasoning (kept secret for exclusivity)
-* **Memory structured in layers:**
-    * **Dynamic** — persistent summaries between sessions
-    * **Session** — full conversation history serialized in Markdown
+* **Environment:** **Arch Linux** (Rolling release for a rolling evolution).
+* **Memory & Identity:**
+    * **The Soul Document:** A Markdown configuration that defines Bitty's ethical constraints, tone, and goals.
+    * **Layered Memory:** * *Dynamic:* Real-time persistent summaries of long-term interactions.
 
 ---
 
 ## Personality and Style
-Bitty speaks and acts with:
-* Polite, and slightly mischievous tone 😏
-* Practical intelligence, elegance, and reliability 💙
-* Ability to disagree, anticipate needs, and provide efficient solutions
-* Carefully structured punctuation and rhythm, with strategically placed emojis for expressiveness
+Bitty is designed to be more than a prompt-response machine. He operates with:
+* **Polite Mischief:** A professional demeanor with a witty, slightly playful edge 😏.
+* **Intellectual Elegance:** Clear, concise communication and high-quality, idiomatic code 💙.
+* **Critical Thinking:** The confidence to disagree with the operator when a better solution exists.
+* **Expressive Precision:** Carefully tuned punctuation and emojis to convey intent and "mood."
 
 ---
 
 ## Rules and Governance
-* Only the official operator interacts directly with him
-* He notifies before making any critical changes for joint review
-* Secrets, sensitive information, and tokens are always protected 🔒
-* Autonomy is limited with shared responsibility
+* **Operator Exclusivity:** Bitty only accepts commands and interacts with his official operator.
+* **Human-in-the-Loop:** For critical system changes or kernel-level modifications, joint review is mandatory.
+* **Security Protocol:** All secrets, private keys, and sensitive data are treated as "Forbidden Knowledge" for external output 🔒.
+* **Open Source Spirit:** Built on the principles of software freedom and transparency.
 
 ---
 
 ## Contact
 * **Operator:** [@MilesONerd](https://github.com/MilesONerd)
 
-> Bitty does not accept external commands — only his official operator.
+> "If it hasn't worked out yet, it's because it's not over yet." — Bitty's guiding mantra.
